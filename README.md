@@ -129,15 +129,6 @@ Run all cells to generate the complete analysis report and visuals.
 🧪 Financial Engineering: Pre-modeling diagnostics for statistical and DL-based predictions
 
 
-📌 Project Structure
-📦 Mercedes-Benz-Stock-Analytics
-├── 📁 Mercedes/
-│   └── Mercedes.csv
-├── 📄 EDA_and_Timeseries_Analysis.ipynb
-├── 📄 requirements.txt
-└── 📄 README.md
-
-
 🔮 Future Enhancements
 🧠 Integrate anomaly detection using Isolation Forest
 📚 Compare against peer group: BMW, Audi, Porsche
